@@ -23,5 +23,5 @@ VBA is a powerful language and easily available with MS Excel. It helped us calc
 ### Advantages of Refactoring
 Advantage of refactoring is that the code works faster especially for a long set of data and it is better presented to the memory therefore faster calculation. Refactoring almost always improve the code and it is also good for people learning the code that can see where they are lacking in coding and then they can improve their coding practices. It also, keeps them from typing same code over and over again, hence not reinventing the wheels. Sometimes, programmer find easier solution to a complex that did not have to be complicated.
 ### Disadvantages of Refactoring
-Sometimes refactoring codes take longer than rewriting, especially if they are not sufficiently commented. 
+Sometimes refactoring codes take longer than rewriting, especially if they are not sufficiently commented. Sometime even with sufficient comments, indents, and formatting it is hard to remeber which variables were for what purpose and where certain loops close. Expacially, in VBA, which is lot less forgiving than Python, one missing "end if" can cause whole code to throw errors and it is hard to find with debugging.  
 
